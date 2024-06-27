@@ -1,0 +1,21 @@
+﻿<Kategorie>
+	<Kategoria Nazwa="Samochody">
+		<Opis>Pojazdy czterokołowe</Opis>
+		<Podkategorie>
+			<Podkategoria Nazwa="Toyota">
+				<Opis>Koncern Toyota, założony w 1937 roku, Japonia</Opis>
+				<Modele>
+					<Model Nazwa="Corolla" RokProdukcji="2020" PojemnoscSilnika="1.8L" RodzajNapędu="Benzyna" />
+					<Model Nazwa="Camry" RokProdukcji="2019" PojemnoscSilnika="2.5L" RodzajNapędu="Hybryda" />
+				</Modele>
+			</Podkategoria>
+			<Podkategoria Nazwa="Ford">
+				<Opis>Koncern Ford, założony w 1903 roku, USA</Opis>
+				<Modele>
+					<Model Nazwa="Focus" RokProdukcji="2018" PojemnoscSilnika="2.0L" RodzajNapędu="Diesel" />
+					<Model Nazwa="Mustang" RokProdukcji="2021" PojemnoscSilnika="5.0L" RodzajNapędu="Benzyna" />
+				</Modele>
+			</Podkategoria>
+		</Podkategorie>
+	</Kategoria>
+</Kategorie>
